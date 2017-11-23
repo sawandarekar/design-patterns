@@ -40,3 +40,9 @@ This project contains java classes for design patterns
   - Decorator
   - Flyweight
   - Proxy
+
+## Refernces :
+- http://www.oodesign.com/
+- https://github.com/iluwatar/java-design-patterns
+- http://java-design-patterns.com/
+- https://www.journaldev.com/1827/java-design-patterns-example-tutorial
