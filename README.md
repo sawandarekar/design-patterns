@@ -24,10 +24,10 @@ This project contains java classes for design patterns
   - Chain of Responsibility
   - Command
   - Interpreter
-  - Iterator
+  - Iterator : 
   - Mediator
   - Memento
-  - Observer
+  - Observer : don't call us, we'll call you?  - e.g. button.addActionListener()
   - Strategy
   - Template Method
   - Visitor
@@ -37,7 +37,7 @@ This project contains java classes for design patterns
   - Adapter
   - Bridge
   - Composite
-  - Decorator
+  - Decorator  -e.g. java io-FileInputStream-BufferedInputStream-LineNumberInputStream
   - Flyweight
   - Proxy
 
@@ -46,3 +46,4 @@ This project contains java classes for design patterns
 - https://github.com/iluwatar/java-design-patterns
 - http://java-design-patterns.com/
 - https://www.journaldev.com/1827/java-design-patterns-example-tutorial
+- https://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries?rq=1
