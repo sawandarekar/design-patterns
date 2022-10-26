@@ -1,4 +1,4 @@
-package org.techHub.creationalPatterns;
+package org.techHub.patterns.creational;
 
 import java.util.ArrayList;
 import java.util.List;

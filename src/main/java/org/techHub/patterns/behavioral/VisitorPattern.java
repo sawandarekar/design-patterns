@@ -1,4 +1,4 @@
-package org.techHub.behavioralPatterns;
+package org.techHub.patterns.behavioral;
 
 
 public class VisitorPattern {

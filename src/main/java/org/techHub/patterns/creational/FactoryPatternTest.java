@@ -1,7 +1,7 @@
 /**
  *
  */
-package org.techHub.creationalPatterns;
+package org.techHub.patterns.creational;
 
 /**
  * creates object without exposing the initialization logic to client. refers newly created object through common interface.
